@@ -6,11 +6,11 @@
   "Entries": [
     {
       "Key": "0x28F6C433",
-      "Value": "Управлять Симом"
+      "Value": "Управлять симом"
     },
     {
       "Key": "0xB195FFA1",
-      "Value": "Перестать управлять Симом"
+      "Value": "Перестать управлять симом"
     },
     {
       "Key": "0x098A53E9",
@@ -30,19 +30,19 @@
     },
     {
       "Key": "0x083C2912",
-      "Value": "Add To Roommates"
+      "Value": "Добавить к соседям по комнате"
     },
     {
       "Key": "0xA7E24CAA",
-      "Value": "Remove From Roommates"
+      "Value": "Удалить из соседей по комнате"
     },
     {
       "Key": "0x284AD579",
-      "Value": "Turn Into Household NPC"
+      "Value": "Установить как NPC"
     },
     {
       "Key": "0xDECE0085",
-      "Value": "Turn Into Household Member"
+      "Value": "Установить как члена семьи"
     }
   ],
   "DataLength": "0x00000368",
